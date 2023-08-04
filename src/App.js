@@ -1,5 +1,5 @@
-import { useState } from "react";
-import "./App.css";
+import React, { useState } from "react";
+import "./index.css";
 import Dashboard from "./components/Dashboard";
 import StockContext from "./context/StockContext";
 import ThemeContext from "./context/ThemeContext";
