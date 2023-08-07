@@ -1,2 +1,2 @@
 @tailwind base;@tailwind components;@tailwind utilities;@layer components{.custom-scrollbar::-webkit-scrollbar{width:4px}.custom-scrollbar::-webkit-scrollbar-track{background:transparent}.custom-scrollbar::-webkit-scrollbar-thumb{background-color:#a5b4fc;width:5px;border-radius:10px}.custom-scrollbar-dark::-webkit-scrollbar-thumb{background-color:#312e81}}
-/*# sourceMappingURL=main.9e579c24.chunk.css.map */
+/*# sourceMappingURL=main.388c1f1b.chunk.css.map */
