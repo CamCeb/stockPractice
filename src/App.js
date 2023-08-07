@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "index.css";
+import "./index.css";
 import Dashboard from "./components/Dashboard";
 import StockContext from "./context/StockContext";
 import ThemeContext from "./context/ThemeContext";
