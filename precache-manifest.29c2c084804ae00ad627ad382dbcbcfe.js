@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/stockPractice/static/js/runtime~main.7a044b07.js"
   },
   {
-    "revision": "1ea1c64671b141e0530bcc88ada41b05",
+    "revision": "a465e56e8a99c23ae92b756fcf2e6731",
     "url": "/stockPractice/index.html"
   }
 ];
